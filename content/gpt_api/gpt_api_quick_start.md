@@ -22,6 +22,7 @@ try {
 } catch (error) {
     console.error("Error fetching data: ", error);
 }
+```
 
 ### Image generator API, Javascript demo
 
@@ -51,3 +52,4 @@ try {
 } catch (error) {
         console.error("Error fetching data: ", error);
 }
+```
